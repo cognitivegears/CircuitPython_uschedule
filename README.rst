@@ -1,6 +1,8 @@
+
 Introduction
 ============
 
+*NOTE*: This repository is out of date and no longer maintained. For the up to date repository, please see: https://github.com/cognitivegears/CircuitPython_Schedule
 
 .. image:: https://readthedocs.org/projects/circuitpython-uschedule/badge/?version=latest
     :target: https://circuitpython-uschedule.readthedocs.io/
